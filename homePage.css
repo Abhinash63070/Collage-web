@@ -1,0 +1,48 @@
+header{
+    height: 25vh;
+    width: auto;
+    background-color: rgba(210, 200, 200, 0.178);
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    
+    
+}
+h1{
+    text-align: center;color: rgb(167, 77, 105); padding-top: 20px;
+}
+p{
+    text-align: center;
+}
+#logo{
+    height: 20%;border-radius: 50%; 
+    position:absolute;
+margin: 20px;
+  
+  
+}
+#Branch{
+    text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+    width: 30%;
+    height: 700px;
+    background-color:rgb(237, 225, 225);
+
+
+}
+#photo{
+width: 70%;
+height:500px;
+
+}
+main{
+display: flex;
+   
+}
+#branch> a{
+    color: aqua;
+}

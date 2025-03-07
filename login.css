@@ -1,0 +1,31 @@
+
+body{ display: flex;
+    align-items: center;
+    line-height: 3;
+    background: #f3f3f3;
+    flex-direction: column;
+    font-size: larger;
+    /* background-image:url("loginbackground.jpeg") ; */
+ 
+    
+}
+.first{
+background-color: #fff;
+border-radius: 15px;
+padding:  20px;
+width: 60%;
+height: 75vh;
+
+text-align: center;
+}
+button{
+width: 35%;
+color: white;
+background-color: rgb(61, 157, 61);
+border-radius: 5px;
+
+}
+form{
+width: 100%;
+
+}
